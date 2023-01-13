@@ -1,6 +1,6 @@
 # TASK 1
 ## Subtask 1
-Punkty: _
+Punkty: 10
 ## Subtask 3
 Cześć!
 
