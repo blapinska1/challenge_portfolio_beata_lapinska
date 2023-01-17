@@ -43,7 +43,7 @@ Nie jestem pewna, czy symulacja meczu i wypełnianie danych w ten sposób jest b
   * Data urodzenia może być każda, nawet dzień dzisiejszy.
   * Edytowanie gracza imienia i nzawiska, nie zmienia się w lewym panelu po wciśnięciu „Submit”. Dopiero po kliknięciu w lewym panelu na gracza nazwa się uaktualnia.
   * Przy dodawaniu meczu, nie można wygenerowaćraportu bez „district” w profilu gracza, która nie jest wartością obowiązkową. Może powinna być, jeśli w kolejnych krokach bez niej się nie obejdzie.
-* Przycisk „Clear” przestaje funkcjonować po zapisaniu gracza/meczu. Formularz nie czyści si.
+* Przycisk „Clear” przestaje funkcjonować po zapisaniu gracza/meczu. Formularz nie czyści się.
 * Nie widziałam też opcji usunięcia gracza.
 * Przycisk Reset w filtrowaniu Players nie wyświetla z powrotem wszystkich wyników, tabela zostaje pusta.
 * Wygląda na to, że ładowanie strony jest dosyć wolne, kliknięcie na „Players” ładuję stronę dosyć długo, nawet przy throttling na fast 3G. 
