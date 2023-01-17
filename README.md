@@ -34,20 +34,17 @@ Nie jestem pewna, czy symulacja meczu i wypełnianie danych w ten sposób jest b
 
 **Czy zauważasz jakieś błędy? Albo coś wydaje Ci się błędem? Zapisz swoje przemyślenia w pliku. Tutaj masz na to miejsce, czas i przestrzeń! ;)**
 * Lokalizacja:
-W wersji angielskiej niektóre pola zostają po polsku i vice versa.
-„Please fill out this field” , „View column”, „show columns”, “download csv”, “filter table”,”print” “web match”, “submit”, “clear” “sorry, no matching records found” wyświetla się w polskiej wersji językowej.
+  * W wersji angielskiej niektóre pola zostają po polsku i vice versa.
+  * „Please fill out this field” , „View column”, „show columns”, “download csv”, “filter table”,”print” “web match”, “submit”, “clear” “sorry, no matching records found” wyświetla się w polskiej wersji językowej.
 * Pola edycji:
-Przy tworzeniu lub edytowaniu pól nie ma żadnych ograniczeń
-W prawie każdym polu można w używać samych cyfer, specjalnych znaków, jednego znaku, nieskończenie długiego łancucha znaków, emotikonów.  
-Przy dodaniu bardzo długiego łańcucha znaków można zaobserwować clipping w głównym panelu (lewa strona) oraz aktywności na głównej stronie, overflowing w wygenerowanym raporcie, overlapping w tabeli, imię może wejść na kolumnę nazwisko etc.
-Data urodzenia może być każda, nawet dzień dzisiejszy.
-Edytowanie gracza imienia i nzawiska, nie zmienia się w lewym panelu po wciśnięciu „Submit”. Dopiero po kliknięciu w lewym panelu na gracza nazwa się uaktualnia.
-Przy dodawaniu meczu, nie można wygenerowaćraportu bez „district” w profilu gracza, która nie jest wartością obowiązkową. Może powinna być, jeśli w kolejnych krokach bez niej się nie obejdzie.
-
+  * Przy tworzeniu lub edytowaniu pól nie ma żadnych ograniczeń
+  * W prawie każdym polu można w używać samych cyfer, specjalnych znaków, jednego znaku, nieskończenie długiego łancucha znaków, emotikonów.  
+  * Przy dodaniu bardzo długiego łańcucha znaków można zaobserwować clipping w głównym panelu (lewa strona) oraz aktywności na głównej stronie, overflowing w wygenerowanym raporcie, overlapping w tabeli, imię może wejść na kolumnę nazwisko etc.
+  * Data urodzenia może być każda, nawet dzień dzisiejszy.
+  * Edytowanie gracza imienia i nzawiska, nie zmienia się w lewym panelu po wciśnięciu „Submit”. Dopiero po kliknięciu w lewym panelu na gracza nazwa się uaktualnia.
+  * Przy dodawaniu meczu, nie można wygenerowaćraportu bez „district” w profilu gracza, która nie jest wartością obowiązkową. Może powinna być, jeśli w kolejnych krokach bez niej się nie obejdzie.
 * Przycisk „Clear” przestaje funkcjonować po zapisaniu gracza/meczu. Formularz nie czyści si.
-
 * Nie widziałam też opcji usunięcia gracza.
-
 * Przycisk Reset w filtrowaniu Players nie wyświetla z powrotem wszystkich wyników, tabela zostaje pusta.
 * Wygląda na to, że ładowanie strony jest dosyć wolne, kliknięcie na „Players” ładuję stronę dosyć długo, nawet przy throttling na fast 3G. 
 * Raport z Lighthouse również zwraca informacje, że na mobile device performance ma bardzo niskie (12)
