@@ -46,7 +46,8 @@ Nie jestem pewna, czy symulacja meczu i wypełnianie danych w ten sposób jest b
 * Przycisk „Clear” przestaje funkcjonować po zapisaniu gracza/meczu. Formularz nie czyści się.
 * Nie widziałam też opcji usunięcia gracza.
 * Przycisk Reset w filtrowaniu Players nie wyświetla z powrotem wszystkich wyników, tabela zostaje pusta.
-* Wygląda na to, że ładowanie strony jest dosyć wolne, kliknięcie na „Players” ładuję stronę dosyć długo, nawet przy throttling na fast 3G. 
-* Raport z Lighthouse również zwraca informacje, że na mobile device performance ma bardzo niskie (12)
+* Wygląda na to, że ładowanie strony jest dosyć wolne, kliknięcie na „Players” ładuję stronę dosyć długo, nawet przy throttling na fast 3G. Na slow 3g jest bardzo wolne (ok. 80sec) 
+* Raport z Lighthouse zwraca ok informacje dla desktop ale dla mobilnego urządzenia performance jest bardzo niski (12).
 * Przy dodawaniu meczu, nie można wygenerowaćraportu bez „district” w profilu gracza, która nie jest wartością obowiązkową. Może powinna być, jeśli w kolejnych krokach bez niej się nie obejdzie.
 * Po edycji imienia nie zmieniło się ono w raporcie. (może to zamierzone, ale będzie mylące szczególnie, że możmy edytować raport pod względzem innych danych.
+* Przy symulacji używania aplikacji na telefonie, nie widziałam opcji sortowania graczy, przy 1800 graczach może to nie być najwygodniejsze. Filtrowanie pewnie pomoże, ale czasem sortowanie też może być przydatne.
