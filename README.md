@@ -23,7 +23,7 @@ Spodziewam się, że dowiem się wielu nowych rzeczy, które pomogą mi rozwija�
 
 
 **Oceń interfejs aplikacji (wygląd) – czy Ci się podoba, czy nie?**
-* Niestety interface jest mało atrakcyjny. Wygląda bardzo prosto, czarno na białym niemalże. Strona głowna nie jest w żadenj sposób ułożona, w sensie „Scouts Panel”, Linki pomocnicze” i „aktywność” mogły być wyrównane do kafelków ilość graczy, mecy, raportów, akcji.
+* Niestety interface jest mało atrakcyjny. Wygląda bardzo prosto, czarno na białym niemalże. Strona główna nie jest w żaden sposób ułożona, w sensie „Scouts Panel”, Linki pomocnicze” i „aktywność” mogły być wyrównane do kafelków ilość graczy, mecy, raportów, akcji.
 
 
 **Czy aplikacja jest intuicyjna? (Intuicyjna, czyli np. nie masz problemu ze zrozumieniem, co należy kliknąć, żeby wejść do formularza dodawania nowego zawodnika piłki nożnej do systemu).**
@@ -51,3 +51,4 @@ Nie jestem pewna, czy symulacja meczu i wypełnianie danych w ten sposób jest b
 * Przy dodawaniu meczu, nie można wygenerowaćraportu bez „district” w profilu gracza, która nie jest wartością obowiązkową. Może powinna być, jeśli w kolejnych krokach bez niej się nie obejdzie.
 * Po edycji imienia nie zmieniło się ono w raporcie. (może to zamierzone, ale będzie mylące szczególnie, że możmy edytować raport pod względzem innych danych.
 * Przy symulacji używania aplikacji na telefonie, nie widziałam opcji sortowania graczy, przy 1800 graczach może to nie być najwygodniejsze. Filtrowanie pewnie pomoże, ale czasem sortowanie też może być przydatne.
+* W wersji mobilnej raport w ogóle się nie przystosowuje do urządzenia, użytkownik musi scrollować przez cały raport, żeby zobaczyć poszczególne sekcje.
