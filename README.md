@@ -52,3 +52,10 @@ Nie jestem pewna, czy symulacja meczu i wypełnianie danych w ten sposób jest b
 * Po edycji imienia nie zmieniło się ono w raporcie. (może to zamierzone, ale będzie mylące szczególnie, że możmy edytować raport pod względzem innych danych.
 * Przy symulacji używania aplikacji na telefonie, nie widziałam opcji sortowania graczy, przy 1800 graczach może to nie być najwygodniejsze. Filtrowanie pewnie pomoże, ale czasem sortowanie też może być przydatne.
 * W wersji mobilnej raport w ogóle się nie przystosowuje do urządzenia, użytkownik musi scrollować przez cały raport, żeby zobaczyć poszczególne sekcje.
+
+
+
+# TASK 2
+## Subtask 1 & 2
+## Subtask 3
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iZaAN7WmUuc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
