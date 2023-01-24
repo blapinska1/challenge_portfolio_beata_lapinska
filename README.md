@@ -56,7 +56,12 @@ Nie jestem pewna, czy symulacja meczu i wypełnianie danych w ten sposób jest b
 
 
 # TASK 2
+
+
 ## Subtask 1 & 2
+* https://drive.google.com/drive/folders/1sjA2cRyHlKYrPIE4AQM9KvDTL_hQKIYe?usp=share_link
+
+
 ## Subtask 3
 ** Po co piszemy test case’y?**
 * Pomaga w zapewnieniu dobrego pokrycia testów (coverage).
