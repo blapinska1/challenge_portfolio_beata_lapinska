@@ -63,7 +63,7 @@ Nie jestem pewna, czy symulacja meczu i wypełnianie danych w ten sposób jest b
 
 
 ## Subtask 3
-** Po co piszemy test case’y?**
+**Po co piszemy test case’y?**
 * Pomaga w zapewnieniu dobrego pokrycia testów (coverage).
 * Pomaga w mierzeniu postępów testowania.
 * Pomaga potwierdzić, że software spełnia wymagania (np. biznesu, czy użytkownika).
