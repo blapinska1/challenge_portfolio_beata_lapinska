@@ -71,4 +71,6 @@ Nie jestem pewna, czy symulacja meczu i wypełnianie danych w ten sposób jest b
 * Są pomocne w testach regresyjnych i retestach.
 * Pomaga znaleźć niejasności i potencjalne problemy, które mogą pomóc w usprawnieniu kodu.
 
-<video src="https://www.youtube.com/watch?v=iZaAN7WmUuc"></video>
+[<img src="https://images.template.net/wp-content/uploads/2016/04/27133811/Youtube-Thumbnail1.jpg" width="50%">](https://youtu.be/OO3FANjwKHY "A komu to potrzebne?")
+[![Watch the video](https://images.template.net/wp-content/uploads/2016/04/27133811/Youtube-Thumbnail1.jpg)](https://youtu.be/OO3FANjwKHY)
+
