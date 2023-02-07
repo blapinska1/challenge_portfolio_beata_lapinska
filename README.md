@@ -118,3 +118,7 @@ https://dare-it-2023-man-test.atlassian.net/jira/software/projects/CPP2/boards/1
 
 * Bug template
 ![Bug template](https://user-images.githubusercontent.com/122435818/217286582-ccf7d2c3-34a5-4ba6-ac02-e5a5df4e4c70.jpg)
+
+* Start of the Sprint
+*![Start of sprint](https://user-images.githubusercontent.com/122435818/217287251-e46dc928-5eca-4d71-b40b-b6a2f67bc87d.jpg)
+
