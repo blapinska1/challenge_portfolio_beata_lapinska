@@ -91,15 +91,15 @@ https://drive.google.com/drive/folders/1XBilWNgHLWhiAj9lDJyn97cPkUikKxyV?usp=sha
 ## Subtask 3
 
 **Do czego służy ta aplikacja? Jaki jest cel tej aplikacji?**
-* ODP
+* Aplikacja służy do wyszukiwania ofert, kupowania i sprzedawania rzeczy, usług, etc. Aplikacja ma na celu ułatwienie korzystania z portalu olx.pl na telefonach komórkowych.
 
 
 **Kto ma być użytkownikiem końcowym aplikacji?**
-* ODP
+* Użytkownicy portalu olx.pl, wszyscu, którzy chcą coś sprzedać, kupić, a nawet znaleźć ofertę pracy.
 
 
 **Czy według Ciebie aplikacja jest user friendly? (Przyjazna dla użytkownika- np. wchodzisz do aplikacji i szybko łapiesz do czego służą przyciski. Poczytaj na ten temat w internecie- co to znaczy, że aplikacja jest przyjazna dla użytkownika)**
-* ODP
+* Na pewno dałoby się udoskonalić te aplikację, ale wydaję mi się, że jest w miare przyjazna użytkownikowi. Przynajmniej na pierwszy rzut oka. Nawigacja jest intuicyjna, łatwo się zorientować w ofertach i kategoriach, jak obserwować. Interfejs jest prosty. Na pozwolenie, aplikacja może wysyłać notyfikacje.
 
 
 **Jak byś usprawnił aplikację? Co byś w niej poprawił. Czy masz jakiś pomysł na dodatkową funkcjonalność? (Żeby nie było: nie jest to aplikacja przy której pracuję, takie pytania pojawiają się na rozmowach rekrutacyjnych dlatego dobrze jest to przećwiczyć :D )**
