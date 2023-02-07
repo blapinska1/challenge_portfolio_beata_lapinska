@@ -16,6 +16,7 @@ Spodziewam się, że dowiem się wielu nowych rzeczy, które pomogą mi rozwija�
 **Na czym polega ta aplikacja? Do czego służy?**
 * Aplikacja służy do zarządzania graczami, meczami i do tworzenia raportów.
 
+
 **Jakie funkcjonalności znajdują się w aplikacji? Do czego służą. Czy są intuicyjne, czy może byś coś zmienił_a? (Nie bój się wyrażać opinię!)**
 * W aplikacji można dodawać graczy, mecze i generować raporty. Można też wyszukiwać graczy z listy, filtrować etc. Aplikacja jest całkiem intuicyjna, ale na pewno można by było ją usprawnić.
 * To co jest ok to, że można filtrować i sortować kolumnami. 
@@ -90,8 +91,20 @@ https://drive.google.com/drive/folders/1XBilWNgHLWhiAj9lDJyn97cPkUikKxyV?usp=sha
 ## Subtask 3
 
 **Do czego służy ta aplikacja? Jaki jest cel tej aplikacji?**
-* 
+* ODP
+
+
 **Kto ma być użytkownikiem końcowym aplikacji?**
-Czy według Ciebie aplikacja jest user friendly? (Przyjazna dla użytkownika- np. wchodzisz do aplikacji i szybko łapiesz do czego służą przyciski. Poczytaj na ten temat w internecie- co to znaczy, że aplikacja jest przyjazna dla użytkownika)
+* ODP
+
+
+**Czy według Ciebie aplikacja jest user friendly? (Przyjazna dla użytkownika- np. wchodzisz do aplikacji i szybko łapiesz do czego służą przyciski. Poczytaj na ten temat w internecie- co to znaczy, że aplikacja jest przyjazna dla użytkownika)**
+* ODP
+
+
 **Jak byś usprawnił aplikację? Co byś w niej poprawił. Czy masz jakiś pomysł na dodatkową funkcjonalność? (Żeby nie było: nie jest to aplikacja przy której pracuję, takie pytania pojawiają się na rozmowach rekrutacyjnych dlatego dobrze jest to przećwiczyć :D )**
+* ODP
+
+
 **Jakie dostrzegasz różnice pomiędzy testowaniem aplikacji internetowej, a natywnej?**
+* ODP
