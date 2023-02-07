@@ -81,3 +81,17 @@ https://user-images.githubusercontent.com/122435818/214252671-bbe75001-9b40-494b
 
 # TASK 3
 https://drive.google.com/drive/folders/1WwsZ9x_z9TrZRcxVIKABR9hDqLPPrOdr?usp=share_link
+
+
+# TASK 4
+## Subtask 1 & 2
+https://drive.google.com/drive/folders/1XBilWNgHLWhiAj9lDJyn97cPkUikKxyV?usp=share_link
+
+## Subtask 3
+
+**Do czego służy ta aplikacja? Jaki jest cel tej aplikacji?**
+* 
+**Kto ma być użytkownikiem końcowym aplikacji?**
+Czy według Ciebie aplikacja jest user friendly? (Przyjazna dla użytkownika- np. wchodzisz do aplikacji i szybko łapiesz do czego służą przyciski. Poczytaj na ten temat w internecie- co to znaczy, że aplikacja jest przyjazna dla użytkownika)
+**Jak byś usprawnił aplikację? Co byś w niej poprawił. Czy masz jakiś pomysł na dodatkową funkcjonalność? (Żeby nie było: nie jest to aplikacja przy której pracuję, takie pytania pojawiają się na rozmowach rekrutacyjnych dlatego dobrze jest to przećwiczyć :D )**
+**Jakie dostrzegasz różnice pomiędzy testowaniem aplikacji internetowej, a natywnej?**
