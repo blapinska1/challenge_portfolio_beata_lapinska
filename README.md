@@ -107,4 +107,6 @@ https://drive.google.com/drive/folders/1XBilWNgHLWhiAj9lDJyn97cPkUikKxyV?usp=sha
 
 
 **Jakie dostrzegasz różnice pomiędzy testowaniem aplikacji internetowej, a natywnej?**
-* ODP
+* Testowanie aplikacji internetowej polega na testowaniu jak strona/aplikacja wyświetla się w przeglądarce. Zakładam, że do używania aplikacji internetowej wymagane jest stałe połączenie z internetem, dla aplikacji natywnej zazwyczaj nie jest to potrzebne do wszystkiego. (zależy od aplikacji)
+* Testowanie aplikacji natywnej skupia się na testowaniu jak aplikacja działa i wygląda na różnych urządzeniach i ekranach. Dla aplikacji internetowej skupiamy się zazwyczaj bardziej na kompatybilności na wielu przeglądarkach.
+* Testowanie aplikacji internetowej nie wymaga testów takich jak usability, performance, czy testowania battery drainage, storage.
