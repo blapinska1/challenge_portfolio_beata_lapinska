@@ -148,6 +148,12 @@ SELECT * FROM movies WHERE movies.year_of_production=2019;
 
 * **Wyświetl wszystkie filmy, które powstały między 1900, a 1999 rokiem.**
 
+SELECT * FROM movies WHERE movies.year_of_production BETWEEN 1990 AND 1999;
+
+SELECT * FROM movies WHERE movies.year_of_production >=1990 AND movies.year_of_production<=1999;
+
+![Task5_subtask3_pyt3](https://user-images.githubusercontent.com/122435818/218435264-655383f1-478d-4143-9912-5eb74adbecdb.jpg)
+
 
 * **Wyświetl JEDYNIE tytuł i cenę filmów, które kosztują poniżej 7$**
 
