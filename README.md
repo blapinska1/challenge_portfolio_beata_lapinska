@@ -134,14 +134,15 @@ https://dare-it-2023-man-test.atlassian.net/jira/software/projects/CPP2/boards/1
 ## Subtask 3
 * **Wyświetl tabelę actors w kolejności alfabetycznej sortując po kolumnie surname.**
 
-
 SELECT * FROM actors ORDER BY surname ASC;
 
 ![Task5_subtask3_pyt1_!](https://user-images.githubusercontent.com/122435818/218433330-faf2aeef-c2ed-47f5-8794-f44b18e83986.jpg)
 
 
-
 * **Wyświetl film, który powstał w 2019 roku.**
+SELECT * FROM movies WHERE movies.year_of_production=2019;
+
+![Task5_subtask3_pyt2](https://user-images.githubusercontent.com/122435818/218434471-ddfb278b-39c5-4e0a-abf7-de03c0bf7c2e.jpg)
 
 
 * **Wyświetl wszystkie filmy, które powstały między 1900, a 1999 rokiem.**
