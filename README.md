@@ -171,6 +171,10 @@ SELECT * FROM actors WHERE actor_id >=4 AND actor_id<=7;
 
 * **Wyświetl klientów o id 2,4,6 wykorzystaj do tego warunek logiczny.**
 
+SELECT * FROM customers WHERE customers.customer_id=2 OR customers.customer_id=4 OR customers.customer_id=6;
+
+![Task5_subtask3_pyt6](https://user-images.githubusercontent.com/122435818/218438474-c1891c15-e82c-4f79-8912-79fc726c502b.jpg)
+
 
 * **Wyświetl klientów o id 1,3,5 wykorzystaj do tego operator IN.**
 
