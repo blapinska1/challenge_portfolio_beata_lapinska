@@ -140,6 +140,7 @@ SELECT * FROM actors ORDER BY surname ASC;
 
 
 * **Wyświetl film, który powstał w 2019 roku.**
+
 SELECT * FROM movies WHERE movies.year_of_production=2019;
 
 ![Task5_subtask3_pyt2](https://user-images.githubusercontent.com/122435818/218434471-ddfb278b-39c5-4e0a-abf7-de03c0bf7c2e.jpg)
