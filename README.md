@@ -137,8 +137,7 @@ https://dare-it-2023-man-test.atlassian.net/jira/software/projects/CPP2/boards/1
 
 SELECT * FROM actors ORDER BY surname ASC;
 
-
-![Task5_subtask3_pyt1](https://user-images.githubusercontent.com/122435818/218432098-f43c43fb-b239-4d9a-9ea2-703234921308.jpg)
+![Task5_subtask3_pyt1_!](https://user-images.githubusercontent.com/122435818/218433330-faf2aeef-c2ed-47f5-8794-f44b18e83986.jpg)
 
 
 
