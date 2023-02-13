@@ -178,13 +178,29 @@ SELECT * FROM customers WHERE customers.customer_id=2 OR customers.customer_id=4
 
 * **Wyświetl klientów o id 1,3,5 wykorzystaj do tego operator IN.**
 
+SELECT * FROM customers WHERE customers.customer_id IN (1,3,5);
+
+![Task5_subtask3_pyt7](https://user-images.githubusercontent.com/122435818/218439108-8ac4ad72-bd51-4962-8b41-5f4d6fd7004b.jpg)
+
 
 * **Wyświetl dane wszystkich osób z tabeli ‘actors’, których imię zaczyna się od ciągu “An”.**
+
+SELECT * FROM actors WHERE actors.name NOT LIKE 'An%';
+
+![Task5_subtask3_pyt8](https://user-images.githubusercontent.com/122435818/218439696-e77ffc50-bb88-4301-aad0-59213403865d.jpg)
 
 
 * **Wyświetl dane klienta, który nie ma podanego adresu email.**
 
+SELECT * FROM customers WHERE email IS NULL;
+
+![Task5_subtask3_pyt9](https://user-images.githubusercontent.com/122435818/218439990-5ddd1f33-82d1-43a1-8fbf-061dc5db3ec3.jpg)
+
 
 * **Wyświetl wszystkie filmy, których cena wynosi powyżej 9$ oraz ich ID mieści się pomiędzy 2 i 8 movie_id.**
+
+SELECT * FROM movies WHERE movies.price>=9 AND movies.movie_id BETWEEN 2 AND 8;
+
+![Task5_subtask3_pyt10](https://user-images.githubusercontent.com/122435818/218440585-e2cd02d5-c26c-452d-9737-e2d69eb886d0.jpg)
 
 
