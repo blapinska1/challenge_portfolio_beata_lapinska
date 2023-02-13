@@ -157,6 +157,10 @@ SELECT * FROM movies WHERE movies.year_of_production >=1990 AND movies.year_of_p
 
 * **Wyświetl JEDYNIE tytuł i cenę filmów, które kosztują poniżej 7$**
 
+SELECT title, price FROM movies WHERE price<=7;
+
+![Task5_subtask3_pyt4](https://user-images.githubusercontent.com/122435818/218436358-126e2b4f-d4b5-4b8e-9f65-45e95190caf7.jpg)
+
 
 * **Użyj operatora logicznego AND, aby wyświetlić aktorów o actor_id pomiędzy 4-7 (4 i 7 powinny się wyświetlać). NIE UŻYWAJ operatora BETWEEN.**
 
