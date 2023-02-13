@@ -125,6 +125,17 @@ https://dare-it-2023-man-test.atlassian.net/jira/software/projects/CPP2/boards/1
 
 # TASK 4
 
+## Subtask 1
+SELECT
+FROM
+WHERE
+AND/OR
+IN
+NOT LIKE
+BETWEEN
+
+
+
 ## Subtask 2
 
 ![Task5_subtask2](https://user-images.githubusercontent.com/122435818/218429346-6b3be633-8caf-4f85-a37e-dab09d9de0db.jpg)
