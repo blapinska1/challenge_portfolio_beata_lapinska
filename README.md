@@ -112,7 +112,7 @@ https://drive.google.com/drive/folders/1XBilWNgHLWhiAj9lDJyn97cPkUikKxyV?usp=sha
 * Testowanie aplikacji natywnej skupia się na testowaniu jak aplikacja działa i wygląda na różnych urządzeniach i ekranach. Dla aplikacji internetowej skupiamy się zazwyczaj bardziej na kompatybilności na wielu przeglądarkach.
 * Testowanie aplikacji internetowej nie wymaga testów takich jak usability, performance, czy testowania battery drainage, storage.
 
-**Subtask 4
+** Subtask 4
 
 https://dare-it-2023-man-test.atlassian.net/jira/software/projects/CPP2/boards/1
 
@@ -126,13 +126,29 @@ https://dare-it-2023-man-test.atlassian.net/jira/software/projects/CPP2/boards/1
 # TASK 4
 
 ## Subtask 1
+USE
+GO
 SELECT
 FROM
+ORDER BY (ASC, DESC)
 WHERE
-AND/OR
-IN
-NOT LIKE
 BETWEEN
+LIKE
+NOT LIKE
+GETDATE()
+UPPER()
+LOWER()
+DATEDIFF()
+COUNT ()
+SUM()
+MIN()
+MAX()
+GROUP BY
+JOIN
+INNER JOIN
+OUTER JOIN
+AND
+OR
 
 
 
