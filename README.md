@@ -196,9 +196,9 @@ SELECT * FROM customers WHERE customers.customer_id IN (1,3,5);
 
 8. **Wyświetl dane wszystkich osób z tabeli ‘actors’, których imię zaczyna się od ciągu “An”.**
 
-SELECT * FROM actors WHERE actors.name NOT LIKE 'An%';
+SELECT * FROM actors WHERE actors.name LIKE 'An%';
 
-![Task5_subtask3_pyt8](https://user-images.githubusercontent.com/122435818/218439696-e77ffc50-bb88-4301-aad0-59213403865d.jpg)
+![Task5_subtask3_pyt8_](https://user-images.githubusercontent.com/122435818/218680836-f882e4e7-c66b-4ebf-9ce5-552ef9b09051.jpg)
 
 
 9. **Wyświetl dane klienta, który nie ma podanego adresu email.**
