@@ -304,8 +304,8 @@ ORDER BY 1;<br>
 
 18. **Polskę opanowała inflacja i nasz sklepik z filmami również dotknął ten problem. Podnieś cenę wszystkich filmów wyprodukowanych po 2000 roku o 2,5 $ (Pamiętaj, że dolar to domyślna jednostka- nie używaj jej nigdzie).**
 UPDATE movies<br>
-#SET price=price+2.5<br>
-#WHERE movies.year_of_production>2000;<br>
+SET price=price+2.5<br>
+WHERE movies.year_of_production>2000;<br>
 
 ![Task6_subtask1_pyt18](https://user-images.githubusercontent.com/122435818/220140949-3a061bbd-fbcf-4315-b388-c34e30d64ffa.jpg)
 
