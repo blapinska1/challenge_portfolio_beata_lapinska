@@ -268,6 +268,7 @@ UPDATE customers SET email='pati@mail.com' WHERE customer_id=4;
 
 
 19. **Wyświetl imię i nazwisko aktora o id 4 i tytuł filmu, w którym zagrał**
+
 SELECT actors.name, actors.surname,movies.title
 FROM actors, cast, movies
 WHERE actors.actor_id=4
