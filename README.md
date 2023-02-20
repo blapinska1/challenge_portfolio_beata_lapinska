@@ -279,3 +279,14 @@ AND cast.movie_id=movies.movie_id;
 
 20. **A gdzie nasza HONIA!? Dodaj do tabeli customers nową krotkę, gdzie customer_id = 7, name = Honia, surname = Stuczka-Kucharska, email = honia@mail.com oraz pseudonym = Hoa**
 
+
+
+
+
+
+## Subtask 2
+
+Wynik: 15/15
+
+![Task6_subtask2_wynikjpg](https://user-images.githubusercontent.com/122435818/220059378-d7812451-46ff-4876-99a8-e9ee958279b9.jpg)
+
