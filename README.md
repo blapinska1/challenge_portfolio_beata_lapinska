@@ -311,17 +311,17 @@ WHERE movies.year_of_production>2000;<br>
 
 19. **Wyświetl imię i nazwisko aktora o id 4 i tytuł filmu, w którym zagrał**
 
-SELECT actors.name, actors.surname,movies.title
-FROM actors, cast, movies
-WHERE actors.actor_id=4
-AND cast.actor_id=actors.actor_id
-AND cast.movie_id=movies.movie_id;
+SELECT actors.name, actors.surname,movies.title<br>
+FROM actors, cast, movies<br>
+WHERE actors.actor_id=4<br>
+AND cast.actor_id=actors.actor_id<br>
+AND cast.movie_id=movies.movie_id;<br>
 
-SELECT actors.name, actors.surname, movies.title
-FROM actors
-JOIN cast ON actors.actor_id=cast.actor_id
-JOIN movies ON cast.movie_id=movies.movie_id
-WHERE actors.actor_id=4;
+SELECT actors.name, actors.surname, movies.title<br>
+FROM actors<br>
+JOIN cast ON actors.actor_id=cast.actor_id<br>
+JOIN movies ON cast.movie_id=movies.movie_id<br>
+WHERE actors.actor_id=4;<br>
 
 ![Task6_subtask1_pyt19](https://user-images.githubusercontent.com/122435818/220047919-1740edf0-5ae7-45dd-ae71-1f6fb87277ed.jpg)
 
