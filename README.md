@@ -268,7 +268,13 @@ UPDATE customers SET email='pati@mail.com' WHERE customer_id=4;
 
 
 19. **Wyświetl imię i nazwisko aktora o id 4 i tytuł filmu, w którym zagrał**
+SELECT actors.name, actors.surname,movies.title
+FROM actors, cast, movies
+WHERE actors.actor_id=4
+AND cast.actor_id=actors.actor_id
+AND cast.movie_id=movies.movie_id;
 
+![Task6_subtask1_pyt19](https://user-images.githubusercontent.com/122435818/220047919-1740edf0-5ae7-45dd-ae71-1f6fb87277ed.jpg)
 
 20. **A gdzie nasza HONIA!? Dodaj do tabeli customers nową krotkę, gdzie customer_id = 7, name = Honia, surname = Stuczka-Kucharska, email = honia@mail.com oraz pseudonym = Hoa**
 
