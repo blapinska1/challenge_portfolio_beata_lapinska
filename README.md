@@ -243,12 +243,14 @@ WHERE customer_id=3;
 
 ![Task6_subtask1_pyt11](https://user-images.githubusercontent.com/122435818/220041325-be37e5f1-e291-4a22-929b-ff993957cfb3.jpg)
 
-
 12. **Pobrałam za dużo pieniędzy od klienta, który kupił w ostatnim czasie film o id 4. Korzystając z funkcji join sprawdź, jak ma na imię klient i jakiego ma maila. W celu napisania mu wiadomości o pomyłce fantastycznej szefowej.**
 
 
 13. **Na pewno zauważył_ś, że sprzedawca zapomniał wpisać emaila klientce Patrycji. Uzupełnij ten brak wpisując: pati@mail.com**
 
+UPDATE customers SET email='pati@mail.com' WHERE customer_id=4;
+
+![Task6_subtask1_pyt13](https://user-images.githubusercontent.com/122435818/220041883-c50027e8-3f96-4dc7-9e60-5a049c366714.jpg)
 
 14. **Dla każdego zakupu wyświetl, imię i nazwisko klienta, który dokonał wypożyczenia oraz tytuł wypożyczonego filmu. (wykorzystaj do tego funkcję inner join, zastanów się wcześniej, które tabele Ci się przydadzą do wykonania ćwiczenia).**
 
