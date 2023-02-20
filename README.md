@@ -286,7 +286,7 @@ ADD pseudonim varchar(255);
 
 
 SELECT DISTINCT movies.title FROM movies
-JOIN sale
+INNER JOIN sale
 ON movies.movie_id=sale.movie_id;
 
 ![Task6_subtask1_pyt16](https://user-images.githubusercontent.com/122435818/220099074-4644dfa3-440c-414d-bb04-19cd1289d7b3.jpg)
