@@ -288,9 +288,13 @@ ON sale.movie_id=movies.movie_id;
 19. **Wyświetl imię i nazwisko aktora o id 4 i tytuł filmu, w którym zagrał**
 
 SELECT actors.name, actors.surname,movies.title
+
 FROM actors, cast, movies
+
 WHERE actors.actor_id=4
+
 AND cast.actor_id=actors.actor_id
+
 AND cast.movie_id=movies.movie_id;
 
 SELECT actors.name, actors.surname, movies.title
