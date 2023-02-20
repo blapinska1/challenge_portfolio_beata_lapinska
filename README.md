@@ -285,6 +285,12 @@ ADD pseudonim varchar(255);
 16. **Wyświetl tytuły filmów, które zostały zakupione, wyświetl tabelę w taki sposób, aby tytuły się nie powtarzały.**
 
 
+SELECT DISTINCT movies.title FROM movies
+JOIN sale
+ON movies.movie_id=sale.movie_id;
+
+![Task6_subtask1_pyt16](https://user-images.githubusercontent.com/122435818/220099074-4644dfa3-440c-414d-bb04-19cd1289d7b3.jpg)
+
 17. **Wyświetl wspólną listę imion wszystkich aktorów i klientów, a wynik uporządkuj alfabetycznie. (Wykorzystaj do tego funkcji UNION)**
 
 
