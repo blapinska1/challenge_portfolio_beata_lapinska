@@ -256,7 +256,7 @@ WHERE sale.movie_id=4;<br>
 
 UPDATE customers<br>
 SET email='pati@mail.com'<br>
-HERE name='Patrycja' AND email IS NULL;<br>
+WHERE name='Patrycja' AND email IS NULL;<br>
 
 ![Task6_subtask1_pyt13](https://user-images.githubusercontent.com/122435818/220041883-c50027e8-3f96-4dc7-9e60-5a049c366714.jpg)
 
