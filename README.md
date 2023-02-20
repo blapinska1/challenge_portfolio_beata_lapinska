@@ -123,7 +123,7 @@ https://dare-it-2023-man-test.atlassian.net/jira/software/projects/CPP2/boards/1
 *![Start of sprint](https://user-images.githubusercontent.com/122435818/217287251-e46dc928-5eca-4d71-b40b-b6a2f67bc87d.jpg)
 
 
-# TASK 4
+# TASK 5
 
 ## Subtask 1
 USE
@@ -231,7 +231,7 @@ SELECT * FROM movies WHERE movies.price>=9 AND movies.movie_id BETWEEN 2 AND 8;
 
 
 
-# TASK 5
+# TASK 6
 
 ## Subtask 1
 
