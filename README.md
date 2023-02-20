@@ -246,6 +246,14 @@ WHERE customer_id=3;
 12. **Pobrałam za dużo pieniędzy od klienta, który kupił w ostatnim czasie film o id 4. Korzystając z funkcji join sprawdź, jak ma na imię klient i jakiego ma maila. W celu napisania mu wiadomości o pomyłce fantastycznej szefowej.**
 
 
+
+SELECT customers.name,customers.surname,customers.email FROM customers
+JOIN sale ON sale.customer_id=customers.customer_id
+JOIN movies ON sale.movie_id=movies.movie_id
+WHERE movies.movie_id=4;
+
+![Task6_subtask1_pyt12](https://user-images.githubusercontent.com/122435818/220079481-870a259d-0758-4ea8-b210-942b2c67a990.jpg)
+
 13. **Na pewno zauważył_ś, że sprzedawca zapomniał wpisać emaila klientce Patrycji. Uzupełnij ten brak wpisując: pati@mail.com**
 
 UPDATE customers SET email='pati@mail.com' WHERE customer_id=4;
@@ -274,6 +282,12 @@ FROM actors, cast, movies
 WHERE actors.actor_id=4
 AND cast.actor_id=actors.actor_id
 AND cast.movie_id=movies.movie_id;
+
+SELECT actors.name, actors.surname, movies.title
+FROM actors
+JOIN cast ON actors.actor_id=cast.actor_id
+JOIN movies ON cast.movie_id=movies.movie_id
+WHERE actors.actor_id=4;
 
 ![Task6_subtask1_pyt19](https://user-images.githubusercontent.com/122435818/220047919-1740edf0-5ae7-45dd-ae71-1f6fb87277ed.jpg)
 
