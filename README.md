@@ -275,7 +275,7 @@ ON sale.movie_id=movies.movie_id;<br>
 
 
 ALTER TABLE customers<br>
-ADD pseudonim varchar(255);<br>
+ADD pseudonym varchar(255);<br>
 
 
 UPDATE customers<br>
