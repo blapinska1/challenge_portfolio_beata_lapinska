@@ -239,7 +239,7 @@ SELECT * FROM movies WHERE movies.price>=9 AND movies.movie_id BETWEEN 2 AND 8;
 
 UPDATE customers
 SET surname='Miler'
-WHERE customer_id=3;
+WHERE name='Ania' AND surname='Muler';
 
 ![Task6_subtask1_pyt11](https://user-images.githubusercontent.com/122435818/220041325-be37e5f1-e291-4a22-929b-ff993957cfb3.jpg)
 
